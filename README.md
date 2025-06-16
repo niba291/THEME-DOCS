@@ -16,7 +16,7 @@ The colors have been decoupled and placed into variables for easier future custo
 Add the following element inside the `<head>` of your `index.html`
 
 ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/niba291/THEME-DOCS/refs/heads/master/theme/github.css"/>
+<link rel="stylesheet" href="https://niba291.github.io/THEME-DOCS/theme/github.css"/>
 ```
 
 To enable the `dark` theme, add the attribute `class="dark"` to the `body` tag.
